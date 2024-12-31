@@ -23,4 +23,3 @@ class DatabaseSeeder extends Seeder
         Attendance::factory()->count(3000)->create();
     }
 }
-yugyf
